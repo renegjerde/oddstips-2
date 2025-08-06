@@ -1,0 +1,5 @@
+├── index.html          # Hovednettside
+├── script.js           # API-kall og logikk
+├── style.css           # Design
+├── netlify.toml        # Konfigurasjon for Netlify
+└── README.md           # Instruksjoner
